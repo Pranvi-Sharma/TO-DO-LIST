@@ -33,7 +33,6 @@ This is a simple To-Do List application built using Python. It helps users manag
 
 This project is created for learning basic Python concepts like loops, functions, and file handling.
 
-👩‍💻 Author
 
 Submitted by: Pranvi
 BTech CSE (AI/ML)
